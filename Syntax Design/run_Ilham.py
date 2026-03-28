@@ -4,7 +4,7 @@ import os
 
 variables = {}
 if len(sys.argv) < 2:
-    print("Usage: Ahlam <filename.am>")
+    print("Usage: Ilham <filename.am>")
     exit()
 
 filename = sys.argv[1]
