@@ -1,11 +1,11 @@
 @echo off
-REM Ahlam Command Launcher
-REM Usage: Ahlam filename.am
+REM Ilham Command Launcher
+REM Usage: Ilham filename.am
 
 set args=%*
 REM Remove any semicolon if typed
 set args=%args:;=%
 
 REM Run Python interpreter
-python "%~dp0run_ahlam.py" %args%
+python "%~dp0run_ilham.py" %args%
 pause
