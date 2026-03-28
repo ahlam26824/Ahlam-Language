@@ -10,8 +10,8 @@ You can run your `.am` programs with a single command in VS Code or CMD.
 
 ```
 Ahlam/
-├── run_ahlam.py      # Python interpreter
-├── Ahlam.bat         # Windows launcher
+├── run_Ilham.py      # Python interpreter
+├── Ilham.bat         # Windows launcher
 ├── ahlam.am          # Example program
 └── README.md         # This file
 ```
@@ -48,13 +48,13 @@ Click OK → OK → OK
 2. Run any `.am` file with:
 
 ```powershell
-Ahlam filename.am
+Ilham filename.am
 ```
 
 Example with included `ahlam.am`:
 
 ```powershell
- Ahlam ahlam.am
+ Ilham ahlam.am
 
 ```
 
